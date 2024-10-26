@@ -1,0 +1,18 @@
+.full{
+    background-image: url(../images/sky.jpg);
+    background-size: cover;
+}
+
+.up{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+hr.rounded {
+    border-top: 8px solid black;
+    border-radius: 5px;
+  }
+
+.summ{
+    margin-left: 1rem;
+}
